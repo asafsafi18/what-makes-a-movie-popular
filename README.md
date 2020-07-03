@@ -1,0 +1,2 @@
+# what-makes-a-movie-popular
+In this project, we will answer the question of” What makes a movie popular?”. We hear many explanations from different people. Some associate the success of the movie with the actor or actress, and others claim that the reason is the large budget. Of course, there are many and varied claims, but all of them do not exceed to be personal opinions. It can be false or true. It is not issued by experts and not the result of studies.
